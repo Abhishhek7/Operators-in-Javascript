@@ -1,0 +1,1 @@
+Here we have gatherd information related to usage of ternary operator ,comma operator, and also we have created various program to check the whether the number is even or odd, using a nested operator to check that a number is positive, negative or zero. we have also used ternary operator to check a person is eligible to vote or not.
